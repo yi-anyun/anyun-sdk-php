@@ -1,0 +1,29 @@
+{
+  "name": "eqxiu/sdk",
+  "type": "library",
+  "description": "api wrap",
+  "authors": [
+    {
+      "name": "linfeng",
+      "email": "linfeng@eqxiu.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "require-dev": {
+    "composer/composer": "^1.8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Eqxiu\\": "src"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Eqxiu\\Tests\\": "tests/"
+    }
+  }
+}

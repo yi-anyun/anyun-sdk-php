@@ -1,0 +1,14 @@
+{
+  "name": "eqxiu/core",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "linfeng-eqxiu",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
