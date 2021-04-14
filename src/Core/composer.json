@@ -1,12 +1,12 @@
 {
-  "name": "eqxiu/core",
-  "description": "description",
+  "name": "eqxiu/anyun-core",
+  "description": "易安云送审SDK",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "Apache-2.0",
   "authors": [
     {
-      "name": "linfeng-eqxiu",
-      "email": "email@example.com"
+      "name": "slacrey",
+      "email": "scstlinfeng@aliyun.com"
     }
   ],
   "require": {

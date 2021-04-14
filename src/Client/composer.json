@@ -1,14 +1,16 @@
 {
-  "name": "eqxiu/client",
-  "description": "api wrap client",
+  "name": "eqxiu/anyun-client",
+  "description": "易安云送审SDK",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "Apache-2.0",
   "authors": [
     {
-      "name": "linfeng-eqxiu",
-      "email": "email@example.com"
+      "name": "slacrey",
+      "email": "scstlinfeng@aliyun.com"
     }
   ],
   "require": {
+    "ext-curl": "*",
+    "ext-json": "*"
   }
 }

@@ -1,12 +1,21 @@
 {
-  "name": "eqxiu/sdk",
+  "name": "eqxiu/anyun-sdk",
   "type": "library",
-  "description": "api wrap",
+  "description": "易安云送审SDK",
+  "license": "Apache-2.0",
   "authors": [
     {
       "name": "linfeng",
       "email": "linfeng@eqxiu.com"
     }
+  ],
+  "keywords": [
+    "check",
+    "sdk",
+    "library",
+    "anyun",
+    "yianyun",
+    "eqxiu"
   ],
   "require": {
     "php": ">=5.5",
