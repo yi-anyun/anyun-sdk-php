@@ -32,7 +32,7 @@ composer require eqxiu/anyun-sdk
 
 use Eqxiu\Client\AuditClient;
 
-$auditClient = AuditClient::create("***", "***", "***");
+$auditClient = AuditClient::create($appKey, $appSecret, $productKey);
     
 try {    
     $ret = $auditClient
